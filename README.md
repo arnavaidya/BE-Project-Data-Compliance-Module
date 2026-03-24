@@ -26,8 +26,8 @@ A full-stack compliance checking system for AI/ML training datasets, powered by 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ai-compliance-module.git
-cd ai-compliance-module
+git clone https://github.com/arnavaidya/BE-Project-Data-Compliance-Module.git
+cd BE-Project-Data-Compliance-Module
 
 # Backend setup
 cd backend
