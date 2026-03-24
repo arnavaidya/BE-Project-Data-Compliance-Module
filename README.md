@@ -2,7 +2,6 @@
 
 A full-stack compliance checking system for AI/ML training datasets, powered by **Microsoft Presidio** for industry-standard PII/PHI detection across GDPR, HIPAA, CCPA, ISO 27001, and PCI-DSS regulations.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![React](https://img.shields.io/badge/react-18.0+-61DAFB.svg)](https://reactjs.org/)
 
@@ -60,10 +59,6 @@ Evaluated on 1,000-record test dataset:
 
 - **Backend**: FastAPI, Microsoft Presidio, spaCy, Pandas
 - **Frontend**: React, Recharts
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
